@@ -136,10 +136,6 @@
 - [x] WebSocket 实时通讯
 - [x] API 封装（user / msg / conversation / group / file）
 - [x] 会话管理（conversation）
-- [ ] API 网关统一调度（misc）
-- [ ] 多端状态一致性
-- [ ] 崩溃恢复机制
-- [ ] 全局事件总线（event）
 
 ---
 
